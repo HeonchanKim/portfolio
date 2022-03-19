@@ -16,6 +16,18 @@
 </br>
 
 ## :pushpin: Projects
+### 2. [핵심융합프로젝트]스마트 핸들
+>시대별 유행어 맞추기 게임 (팀 프로젝트)  
+>개발 기간: 2022년 2월 26일 ~ 3월 14일
+>  
+>기술 스택:  
+>Java 8 / Oracle / Arduino / Jsp / Servlet / Tomcat / HTML / CSS / JavaScript / jQuery / 
+>  
+>[프로젝트 상세 설명](https://github.com/HeonchanKim/smhrd_miniProject) 참고
+
+---
+
+## :pushpin: Projects
 ### 1. [미니프로젝트]시대별 유행어 맞추기 게임
 >시대별 유행어 맞추기 게임 (팀 프로젝트)  
 >개발 기간: 2022년 1월 17일 ~ 1월 20일
