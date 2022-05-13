@@ -14,10 +14,10 @@
 
 ## :pushpin: Contact
 
-- Email: khc9274@naver.com
-<br/>
-- Blog: https://heonchan.tistory.com/
-<br/>
+- Email: khc9274@naver.com<br/>
+
+- Blog: https://heonchan.tistory.com/<br/>
+
 - GitHub: https://github.com/HeonchanKim
 
 </br>
@@ -30,7 +30,7 @@
 >기술 스택:  
 >Java 8 / Spring Boot / MySQL / MyBatis / JSP / HTML / CSS / JavaScript / jQuery / 
 >  
->[프로젝트 상세 설명]() 참고
+>[프로젝트 상세 설명] 참고(현재 진행중)
 
 ---
 
