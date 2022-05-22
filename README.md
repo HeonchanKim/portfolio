@@ -29,7 +29,7 @@
 >개발 기간: 2022년 4월 27일 ~ 5월 24일(현재 진행중)
 >  
 >기술 스택:  
->Java 8 / Spring Boot / MySQL / MyBatis / JSP / HTML / CSS / JavaScript / jQuery / 
+>Java 8 / Spring Boot / AWS EC2 / MySQL / MyBatis / JSP / HTML / CSS / JavaScript / jQuery / 
 >  
 >[프로젝트 상세 설명] 참고(현재 진행중)
 
