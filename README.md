@@ -26,12 +26,12 @@
 ### 1. [팀 프로젝트]태양광 발전량 모니터링 및 예측 시스템 'Solcaster'
 >가상 PLC로 부터 실시간 데이터를 받아 데이터 분석 및 처리, 예측
 >
->개발 기간: 2022년 4월 27일 ~ 5월 24일(현재 진행중)
+>개발 기간: 2022년 4월 27일 ~ 5월 24일
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / AWS EC2 / MySQL / MyBatis / JSP / HTML / CSS / JavaScript / jQuery / 
 >  
->[프로젝트 상세 설명] 참고(현재 진행중)
+>[프로젝트 상세 설명](https://github.com/HeonchanKim/smhrd_finalProject/tree/master) 참고 (현재 작성 중)
 
 ---
 
